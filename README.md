@@ -26,4 +26,4 @@ I’m a **Full-Stack Software Developer** and **UI/UX Designer** specializing in
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kallendev&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kallendev&theme=tokyo-night)
+
