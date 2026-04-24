@@ -19,12 +19,8 @@ I’m a **Full-Stack Software Developer** and **UI/UX Designer** specializing in
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://vercel.app" alt="Kallen's Stats" />
-  <br/>
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Kallen's Trophies" />
-</p>
+https://github-readme-stats.vercel.app/api?username=Kallendev&show_icons=true&theme=tokyonight&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=Kallendev&layout=compact&theme=tokyonight&hide_border=true
+https://streak-stats.demolab.com/?user=Kallendev&theme=tokyonight&hide_border=true
+https://img.shields.io/github/stars/Kallendev?style=social
+https://img.shields.io/github/followers/Kallendev?style=social
