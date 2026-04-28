@@ -1,29 +1,90 @@
-### 👋 Hi there, I'm Kallen!
+<h1 align="center">Hi there, I'm Kallen 👋</h1>
+<h3 align="center">Full-Stack Developer | UI/UX Designer | MERN & PERN Specialist 🚀</h3>
 
-I’m a **Full-Stack Software Developer** and **UI/UX Designer** specializing in the **MERN** and **PERN** stacks. I bridge the gap between powerful backend logic and beautiful, user-centric interfaces.
-
----
-
-### 🚀 What I'm Working On
-*   🛠️ **Fundifix:** Developing a platform that connects local **fundis** (artisans) to clients in their immediate area.
-*   🧠 **Learning ML:** Currently diving into **Machine Learning** to integrate intelligent data features into web applications.
-*   📫 **Reach me:** [developerkallen@gmail.com](mailto:developerkallen@gmail.com)
+<p align="center">
+  I build scalable backend systems and craft clean, user-focused interfaces that solve real-world problems.
+</p>
 
 ---
 
-### 🛠️ Technical Toolbox
-*   **Stacks:** MERN (MongoDB, Express, React, Node) & PERN (PostgreSQL, Express, React, Node).
-*   **UI/UX:** Figma, Adobe XD, Responsive Design, CSS Frameworks.
-*   **Focus:** API Design, Database Optimization, and scalable architecture.
+## 🚀 About Me
+
+I'm a full-stack software developer with a strong focus on **modern web applications**, combining powerful backend systems with intuitive UI/UX design.
+
+Currently working on impactful solutions while expanding into intelligent systems.
+
+### 💡 Core Strengths:
+- ⚡ Full-Stack Development (MERN & PERN)
+- 🔗 RESTful API Design & Backend Architecture
+- 🛢️ Database Design & Optimization
+- 🎨 UI/UX Design with developer precision
+- 📱 Responsive & user-centric interfaces
 
 ---
 
-## 📊 My GitHub Stats
+## 📚 Currently Learning
+- 🧠 Machine Learning (for smarter applications)
+- ⚙️ Advanced Backend Scaling Techniques
 
-![Kallen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kallendev&show_icons=true&theme=tokyonight&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kallendev&layout=compact&theme=tokyonight&hide_border=true)
+## 🛠️ Languages & Tools
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kallendev&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,html,css,tailwind,figma,git,github,linux,vscode" />
+</p>
 
+---
 
+## 🏆 Contribution Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kallendev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kallendev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kallendev&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kallendev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kallendev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com/?user=Kallendev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### 🛠️ Fundifix
+A platform connecting local artisans (**fundis**) with nearby clients.
+
+- 📍 Location-based matching  
+- ⚡ Real-time availability  
+- 🤝 Seamless client–artisan interaction  
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:developerkallen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <!-- Add LinkedIn here -->
+  <!-- Add Portfolio here -->
+</p>
+
+---
+
+<p align="center">✨ Building solutions that matter ✨</p>
