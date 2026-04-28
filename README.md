@@ -50,19 +50,6 @@ Currently working on impactful solutions while expanding into intelligent system
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kallendev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kallendev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com/?user=Kallendev&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🚀 Featured Project
 
