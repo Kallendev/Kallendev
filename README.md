@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kallen 👋</h1>
-<h3 align="center">Full-Stack Developer | UI/UX Designer | MERN & PERN Specialist 🚀</h3>
+<h3 align="center">Full-Stack Developer | UI/UX Designer | MERN & PERN Specialist </h3>
 
 <p align="center">
   I build scalable backend systems and craft clean, user-focused interfaces that solve real-world problems.
@@ -7,28 +7,28 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a full-stack software developer with a strong focus on **modern web applications**, combining powerful backend systems with intuitive UI/UX design.
 
 Currently working on impactful solutions while expanding into intelligent systems.
 
-### 💡 Core Strengths:
-- ⚡ Full-Stack Development (MERN & PERN)
-- 🔗 RESTful API Design & Backend Architecture
-- 🛢️ Database Design & Optimization
-- 🎨 UI/UX Design with developer precision
-- 📱 Responsive & user-centric interfaces
+###  Core Strengths:
+- Full-Stack Development (MERN & PERN)
+- RESTful API Design & Backend Architecture
+- Database Design & Optimization
+- UI/UX Design with developer precision
+- Responsive & user-centric interfaces
 
 ---
 
-## 📚 Currently Learning
-- 🧠 Machine Learning (for smarter applications)
-- ⚙️ Advanced Backend Scaling Techniques
+## Currently Learning
+- Machine Learning (for smarter applications)
+- Advanced Backend Scaling Techniques
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,html,css,tailwind,figma,git,github,linux,vscode" />
@@ -36,7 +36,7 @@ Currently working on impactful solutions while expanding into intelligent system
 
 ---
 
-## 🏆 Contribution Summary
+## Contribution Summary
 
 <div align="center">
 
@@ -51,18 +51,18 @@ Currently working on impactful solutions while expanding into intelligent system
 ---
 
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🛠️ Fundifix
+### Fundifix
 A platform connecting local artisans (**fundis**) with nearby clients.
 
-- 📍 Location-based matching  
+- Location-based matching  
 - ⚡ Real-time availability  
-- 🤝 Seamless client–artisan interaction  
+- Seamless client–artisan interaction  
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:developerkallen@gmail.com">
